@@ -1,0 +1,4 @@
+python-imap==1.0.0
+python-xml2dict==0.1.1
+XML2Dict==0.2.2
+xmltodict==0.12.0
